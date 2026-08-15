@@ -1,6 +1,6 @@
 # Mustafa Göksal
 
-I use "jamesgeorge007/github-activity-readme@master" for automating my readme.md
+I use "jamesgeorge007/github-activity-readme@master" and github actions for automating my readme.md
 
 <!--START_SECTION:top-repos-->
 | Repository | Description | Primary Language | Stars |
