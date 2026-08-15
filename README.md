@@ -1,6 +1,7 @@
 # Hi there, I'm Mustafa Göksal
 
 I use "jamesgeorge007/github-activity-readme@master" and github actions for automating my readme.md
+
 **Software Developer**  
 Building full-stack web platforms, mobile utilities, and automated DevOps workflows.
 
