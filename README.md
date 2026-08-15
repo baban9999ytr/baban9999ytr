@@ -8,7 +8,7 @@ Building full-stack web platforms, mobile utilities, and automated DevOps workfl
 
 ---
 
-### 🛠️ Tech Stack & Skills
+###  Tech Stack & Skills
 
 * **Languages:** Python, PHP, Java, C#, SQL
 * **Backend:** Laravel, ASP.NET Core, REST APIs, PostgreSQL, Supabase
