@@ -37,8 +37,10 @@
 ###  GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.api.sheer.tf/api?username=baban9999ytr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.api.sheer.tf/api/top-langs/?username=baban9999ytr&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baban9999ytr&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=baban9999ytr&theme=tokyonight&margin-w=15&row=1&column=3" width="48%" alt="GitHub Trophies" />
+<img src="https://metrics.lecoq.io/baban9999ytr?template=classic&config.timezone=Europe%2FIstanbul" width="80%" alt="GitHub Metrics" />
 </div>
 
 <br />
