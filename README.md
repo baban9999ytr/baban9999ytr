@@ -37,9 +37,8 @@
 ###  GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=baban9999ytr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=baban9999ytr&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+<img src="https://github-readme-stats.api.sheer.tf/api?username=baban9999ytr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.api.sheer.tf/api/top-langs/?username=baban9999ytr&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 </div>
 
 <br />
