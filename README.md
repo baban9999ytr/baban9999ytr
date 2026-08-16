@@ -1,44 +1,77 @@
-# Hi there, I'm Mustafa Göksal
+<div align="center">
 
-I use "jamesgeorge007/github-activity-readme@master" and github actions for automating my readme.md
+  <h1> Mustafa Göksal</h1>
+  <p><b>Full-Stack Software Developer & Automation Specialist</b></p>
 
-**Software Developer**  
-Building full-stack web platforms, mobile utilities, and automated DevOps workflows.
+  <p>
+    <i>Architecting resilient web systems, native Android utilities, and automated DevOps pipelines.</i>
+  </p>
 
-**Website:** [kerrariumari.neocities.org](https://kerrariumari.neocities.org/)  
-**GitHub Pages:** [baban9999ytr.github.io](https://baban9999ytr.github.io/)
+  <p>
+    <a href="https://kerrariumari.neocities.org/"><img src="https://img.shields.io/badge/Portfolio-kerrariumari.neocities.org-4F46E5?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://baban9999ytr.github.io/"><img src="https://img.shields.io/badge/GitHub_Pages-baban9999ytr.github.io-10B981?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages" /></a>
+  </p>
 
----
+</div>
 
-### Tech Stack & Skills
-
-- **Languages:** Python, PHP, Java, C#, SQL
-- **Backend:** Laravel, ASP.NET Core, REST APIs, PostgreSQL, Supabase
-- **Frontend:** Vue.js, Inertia.js, Tailwind CSS
-- **Embedded & Hardware:** Arduino, ESP32, Raspberry Pi, Pinoo Board
-- **Tools & Systems:** Linux (WSL/Ubuntu/Nobara), Git, Docker, GitHub Actions, n8n
+<br />
 
 ---
 
-### Featured Repositories
+### 🛠️ Tech Stack & Ecosystem
+
+<div align="center">
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | `Python` `PHP` `Java` `C#` `SQL` |
+| **Backend & Databases** | `Laravel` `ASP.NET Core` `REST APIs` `PostgreSQL` `Supabase` |
+| **Frontend UI** | `Vue.js` `Inertia.js` `Tailwind CSS` |
+| **DevOps & OS** | `Linux (Ubuntu/Nobara)` `WSL` `Git` `Docker` `GitHub Actions` `n8n` |
+| **Hardware & IoT** | `Arduino` `ESP32` `Raspberry Pi` `Pinoo Board` |
+
+</div>
+
+---
+
+###  GitHub Analytics
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=baban9999ytr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baban9999ytr&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+
+</div>
+
+<br />
+
+---
+
+###  Featured Repositories
 
 <!--START_SECTION:top-repos-->
-| Repository | Description | Primary Language | Stars |
-| --- | --- | --- | --- |
-| [LifeDiary](https://github.com/baban9999ytr/LifeDiary) | First Full Release | **Java** |  7 |
-| [PythonLocalPhoneSpeechDownloader](https://github.com/baban9999ytr/PythonLocalPhoneSpeechDownloader) | No description provided. | **Python** |  0 |
-| [pythongeneraljobscraper](https://github.com/baban9999ytr/pythongeneraljobscraper) | No description provided. | **Python** |  0 |
-| [LaravelShoppingSite](https://github.com/baban9999ytr/LaravelShoppingSite) | No description provided. | **Vue** |  0 |
-| [PhoneSpeechDownloader-Mobile](https://github.com/baban9999ytr/PhoneSpeechDownloader-Mobile) | No description provided. | **Java** |  0 |
+| Repository | Overview | Stack | Stars |
+| :--- | :--- | :---: | :---: |
+|  **[LifeDiary](https://github.com/baban9999ytr/LifeDiary)** | Local-first, privacy-focused Android diary utility. | `Java` | 7 |
+|  **[LaravelShoppingSite](https://github.com/baban9999ytr/LaravelShoppingSite)** | Full-stack e-commerce platform with reactive UI & auth flows. | `Vue` `Laravel` | 0 |
+|  **[PhoneSpeechDownloader-Mobile](https://github.com/baban9999ytr/PhoneSpeechDownloader-Mobile)** | Mobile client for local text-to-speech asset management. | `Java` | 0 |
+|  **[PythonLocalPhoneSpeechDownloader](https://github.com/baban9999ytr/PythonLocalPhoneSpeechDownloader)** | Local backend pipeline for high-speed voice model downloads. | `Python` | 0 |
+|  **[pythongeneraljobscraper](https://github.com/baban9999ytr/pythongeneraljobscraper)** | Automated multi-source job posting extraction tool. | `Python` | 0 |
 <!--END_SECTION:top-repos-->
 
 ---
 
-### Recent GitHub Activity
+###  Recent Activity
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1](https://github.com/baban9999ytr/LifeDiary/issues/1#issuecomment-5281937298) in [baban9999ytr/LifeDiary](https://github.com/baban9999ytr/LifeDiary)
-2. 🔒 Closed issue [#1](https://github.com/baban9999ytr/LifeDiary/issues/1) in [baban9999ytr/LifeDiary](https://github.com/baban9999ytr/LifeDiary)
+1.  Commented on [#1](https://github.com/baban9999ytr/LifeDiary/issues/1#issuecomment-5281937298) in [baban9999ytr/LifeDiary](https://github.com/baban9999ytr/LifeDiary)
+2.  Closed issue [#1](https://github.com/baban9999ytr/LifeDiary/issues/1) in [baban9999ytr/LifeDiary](https://github.com/baban9999ytr/LifeDiary)
 
 <!--END_SECTION:activity-->
+
+---
+
+<div align="center">
+  <sub>Automated with GitHub Actions & custom workflows.</sub>
+</div>
