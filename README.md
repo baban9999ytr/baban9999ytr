@@ -22,19 +22,19 @@
 
 <div align="center">
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Languages** | `Python` `PHP` `Java` `C#` `SQL` |
-| **Backend & Databases** | `Laravel` `ASP.NET Core` `REST APIs` `PostgreSQL` `Supabase` |
-| **Frontend UI** | `Vue.js` `Inertia.js` `Tailwind CSS` |
-| **DevOps & OS** | `Linux (Ubuntu/Nobara)` `WSL` `Git` `Docker` `GitHub Actions` `n8n` |
-| **Hardware & IoT** | `Arduino` `ESP32` `Raspberry Pi` `Pinoo Board` |
+| Domain                  | Technologies                                                        |
+| :---------------------- | :------------------------------------------------------------------ |
+| **Languages**           | `Python` `PHP` `Java` `C#` `SQL`                                    |
+| **Backend & Databases** | `Laravel` `ASP.NET Core` `REST APIs` `PostgreSQL` `Supabase`        |
+| **Frontend UI**         | `Vue.js` `Inertia.js` `Tailwind CSS`                                |
+| **DevOps & OS**         | `Linux (Ubuntu/Nobara)` `WSL` `Git` `Docker` `GitHub Actions` `n8n` |
+| **Hardware & IoT**      | `Arduino` `ESP32` `Raspberry Pi` `Pinoo Board`                      |
 
 </div>
 
 ---
 
-###  GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
 
@@ -47,21 +47,23 @@
 
 ---
 
-###  Featured Repositories
+### Featured Repositories
 
 <!--START_SECTION:top-repos-->
-| Repository | Description | Primary Language | Stars |
-| --- | --- | --- | --- |
-| [LifeDiary](https://github.com/baban9999ytr/LifeDiary) | First Full Release | **Java** |  7 |
-| [PythonLocalPhoneSpeechDownloader](https://github.com/baban9999ytr/PythonLocalPhoneSpeechDownloader) | No description provided. | **Python** |  0 |
-| [pythongeneraljobscraper](https://github.com/baban9999ytr/pythongeneraljobscraper) | No description provided. | **Python** |  0 |
-| [LaravelShoppingSite](https://github.com/baban9999ytr/LaravelShoppingSite) | No description provided. | **Vue** |  0 |
-| [PhoneSpeechDownloader-Mobile](https://github.com/baban9999ytr/PhoneSpeechDownloader-Mobile) | No description provided. | **Java** |  0 |
+
+| Repository                                                                                           | Description              | Primary Language | Stars |
+| ---------------------------------------------------------------------------------------------------- | ------------------------ | ---------------- | ----- |
+| [LifeDiary](https://github.com/baban9999ytr/LifeDiary)                                               | First Full Release       | **Java**         | 7     |
+| [PythonLocalPhoneSpeechDownloader](https://github.com/baban9999ytr/PythonLocalPhoneSpeechDownloader) | No description provided. | **Python**       | 0     |
+| [pythongeneraljobscraper](https://github.com/baban9999ytr/pythongeneraljobscraper)                   | No description provided. | **Python**       | 0     |
+| [LaravelShoppingSite](https://github.com/baban9999ytr/LaravelShoppingSite)                           | No description provided. | **Vue**          | 0     |
+| [PhoneSpeechDownloader-Mobile](https://github.com/baban9999ytr/PhoneSpeechDownloader-Mobile)         | No description provided. | **Java**         | 0     |
+
 <!--END_SECTION:top-repos-->
 
 ---
 
-###  Recent Activity
+### Recent Activity
 
 <!--START_SECTION:activity-->
 
