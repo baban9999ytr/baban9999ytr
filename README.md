@@ -65,8 +65,8 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1](https://github.com/baban9999ytr/LifeDiary/issues/1#issuecomment-5281937298) in [baban9999ytr/LifeDiary](https://github.com/baban9999ytr/LifeDiary)
-2. 🔒 Closed issue [#1](https://github.com/baban9999ytr/LifeDiary/issues/1) in [baban9999ytr/LifeDiary](https://github.com/baban9999ytr/LifeDiary)
+1. ℹ️ Labeled issue [#1](https://github.com/baban9999ytr/LifeDiary/issues/1) in [baban9999ytr/LifeDiary](https://github.com/baban9999ytr/LifeDiary)
+2. ℹ️ Assigned issue [#1](https://github.com/baban9999ytr/LifeDiary/issues/1) in [baban9999ytr/LifeDiary](https://github.com/baban9999ytr/LifeDiary)
 
 <!--END_SECTION:activity-->
 
