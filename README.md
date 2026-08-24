@@ -18,7 +18,7 @@
 
 ---
 
-###  Tech Stack & Ecosystem
+### Tech Stack & Ecosystem
 
 <div align="center">
 
@@ -50,13 +50,15 @@
 ### Featured Repositories
 
 <!--START_SECTION:top-repos-->
-| Repository | Description | Primary Language | Stars |
-| --- | --- | --- | --- |
-| [LifeDiary](https://github.com/baban9999ytr/LifeDiary) | First Full Release | **Java** |  7 |
-| [python-template](https://github.com/baban9999ytr/python-template) | No description provided. | **Python** |  0 |
-| [ESP32LedController](https://github.com/baban9999ytr/ESP32LedController) | No description provided. | **C++** |  0 |
-| [PythonLocalPhoneSpeechDownloader](https://github.com/baban9999ytr/PythonLocalPhoneSpeechDownloader) | No description provided. | **Python** |  0 |
-| [pythongeneraljobscraper](https://github.com/baban9999ytr/pythongeneraljobscraper) | No description provided. | **Python** |  0 |
+
+| Repository                                                                                           | Description              | Primary Language | Stars |
+| ---------------------------------------------------------------------------------------------------- | ------------------------ | ---------------- | ----- |
+| [LifeDiary](https://github.com/baban9999ytr/LifeDiary)                                               | First Full Release       | **Java**         | 7     |
+| [python-template](https://github.com/baban9999ytr/python-template)                                   | No description provided. | **Python**       | 0     |
+| [ESP32LedController](https://github.com/baban9999ytr/ESP32LedController)                             | No description provided. | **C++**          | 0     |
+| [PythonLocalPhoneSpeechDownloader](https://github.com/baban9999ytr/PythonLocalPhoneSpeechDownloader) | No description provided. | **Python**       | 0     |
+| [pythongeneraljobscraper](https://github.com/baban9999ytr/pythongeneraljobscraper)                   | No description provided. | **Python**       | 0     |
+
 <!--END_SECTION:top-repos-->
 
 ---
