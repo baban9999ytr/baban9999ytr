@@ -54,7 +54,7 @@
 | Repository | Description | Primary Language | Stars |
 | --- | --- | --- | --- |
 | [LifeDiary](https://github.com/baban9999ytr/LifeDiary) | First Full Release | **Java** |  7 |
-| [InformationAndIbanCards](https://github.com/baban9999ytr/InformationAndIbanCards) | No description provided. | **HTML** |  0 |
+| [InformationAndIbanCards](https://github.com/baban9999ytr/InformationAndIbanCards) | No description provided. | **JavaScript** |  0 |
 | [OpenStackTools](https://github.com/baban9999ytr/OpenStackTools) | No description provided. | **HTML** |  0 |
 | [pythongeneraljobscraper](https://github.com/baban9999ytr/pythongeneraljobscraper) | No description provided. | **Python** |  0 |
 | [PythonLocalPhoneSpeechDownloader](https://github.com/baban9999ytr/PythonLocalPhoneSpeechDownloader) | No description provided. | **Python** |  0 |
