@@ -1,20 +1,22 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mustafa%20G%C3%B6ksal&fontSize=50" style="width: 100%" alt="Header" />
-</div>  
+</div>
 
-### <div align="center">I'm Mustafa, a full-stack software developer 👨‍💻 and automation specialist building resilient web systems, native utilities, and IoT solutions 🚀</div>  
+### <div align="center">I'm Mustafa, a full-stack software developer 👨‍💻 and automation specialist building resilient web systems, native utilities, and IoT solutions 🚀</div>
 
-- 🔭 I'm currently working on [InformationAndIbanCards](https://github.com/baban9999ytr/InformationAndIbanCards)  
-- 🌱 I'm currently learning **Advanced Microcontroller Programming, Docker, and Cloud Native Architectures**  
-- 💬 Ask me about **Python, C#, Laravel, Vue.js, Supabase, ESP32, and Web Automation**  
-- ⚡ Something's coming in 3 days...  
+- 🔭 I'm currently working on [InformationAndIbanCards](https://github.com/baban9999ytr/InformationAndIbanCards)
+- 🌱 I'm currently learning **Advanced Microcontroller Programming, Docker, and Cloud Native Architectures**
+- 💬 Ask me about **Python, C#, Laravel, Vue.js, Supabase, ESP32, and Web Automation**
+- ⚡ Something's coming in 3 days...
 
-<br/>  
+<br/>
 
-## 🛠️ My Skill Set  
+## 🛠️ My Skill Set
+
 <table><tr><td valign="top" width="33%">
 
-### Frontend  
+### Frontend
+
 <div align="center">  
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
@@ -27,7 +29,8 @@
 
 </td><td valign="top" width="33%">
 
-### Backend & Databases  
+### Backend & Databases
+
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
@@ -36,9 +39,10 @@
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-</div>  
+</div>
 
 ### DevOps & Tools
+
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
@@ -50,17 +54,19 @@
 
 </td><td valign="top" width="33%">
 
-### Hardware & IoT  
+### Hardware & IoT
+
 <div align="center">  
 <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+</td></tr></table>
 
-<br/>  
+<br/>
 
-## 🌐 Connect with me  
+## 🌐 Connect with me
+
 <div align="center">
 <a href="https://github.com/baban9999ytr" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
@@ -77,11 +83,12 @@
 <a href="https://stackoverflow.com/users/mustafa-göksal" target="_blank">
 <img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stackoverflow" style="margin-bottom: 5px;" />
 </a>
-</div>  
+</div>
 
-<br/>  
+<br/>
 
-## 📊 GitHub Analytics  
+## 📊 GitHub Analytics
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=baban9999ytr&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=baban9999ytr&hide_border=true&theme=tokyonight" width="48%" alt="GitHub Streak Stats" />
@@ -92,20 +99,22 @@
 </div>
 <div align="center" style="margin-top: 10px;">
   <img src="https://metrics.lecoq.io/baban9999ytr?template=classic&config.timezone=Europe%2FIstanbul" width="80%" alt="GitHub Metrics" />
-</div>  
+</div>
 
-<br/>  
+<br/>
 
 ## 🏆 Featured Repositories
 
 <!--START_SECTION:top-repos-->
-| Repository | Description | Primary Language | Stars |
-| --- | --- | --- | --- |
-| [LifeDiary](https://github.com/baban9999ytr/LifeDiary) | First Full Release | **Java** |  7 |
-| [InformationAndIbanCards](https://github.com/baban9999ytr/InformationAndIbanCards) | No description provided. | **JavaScript** |  0 |
-| [OpenStackTools](https://github.com/baban9999ytr/OpenStackTools) | No description provided. | **HTML** |  0 |
-| [pythongeneraljobscraper](https://github.com/baban9999ytr/pythongeneraljobscraper) | No description provided. | **Python** |  0 |
-| [PythonLocalPhoneSpeechDownloader](https://github.com/baban9999ytr/PythonLocalPhoneSpeechDownloader) | No description provided. | **Python** |  0 |
+
+| Repository                                                                                           | Description              | Primary Language | Stars |
+| ---------------------------------------------------------------------------------------------------- | ------------------------ | ---------------- | ----- |
+| [LifeDiary](https://github.com/baban9999ytr/LifeDiary)                                               | First Full Release       | **Java**         | 7     |
+| [InformationAndIbanCards](https://github.com/baban9999ytr/InformationAndIbanCards)                   | No description provided. | **JavaScript**   | 0     |
+| [OpenStackTools](https://github.com/baban9999ytr/OpenStackTools)                                     | No description provided. | **HTML**         | 0     |
+| [pythongeneraljobscraper](https://github.com/baban9999ytr/pythongeneraljobscraper)                   | No description provided. | **Python**       | 0     |
+| [PythonLocalPhoneSpeechDownloader](https://github.com/baban9999ytr/PythonLocalPhoneSpeechDownloader) | No description provided. | **Python**       | 0     |
+
 <!--END_SECTION:top-repos-->
 
 <br/>
@@ -113,11 +122,13 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+
 1. ℹ️ Labeled issue [#1](https://github.com/baban9999ytr/LifeDiary/issues/1) in [baban9999ytr/LifeDiary](https://github.com/baban9999ytr/LifeDiary)
 2. ℹ️ Assigned issue [#1](https://github.com/baban9999ytr/LifeDiary/issues/1) in [baban9999ytr/LifeDiary](https://github.com/baban9999ytr/LifeDiary)
+
 <!--END_SECTION:activity-->
 
-<br/>  
+<br/>
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/MustafaGoksal" target="_blank" style="display: inline-block;">
