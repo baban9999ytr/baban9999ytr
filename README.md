@@ -106,15 +106,13 @@
 ## 🏆 Featured Repositories
 
 <!--START_SECTION:top-repos-->
-
-| Repository                                                                         | Description              | Primary Language | Stars |
-| ---------------------------------------------------------------------------------- | ------------------------ | ---------------- | ----- |
-| [LifeDiary](https://github.com/baban9999ytr/LifeDiary)                             | First Full Release       | **Java**         | 7     |
-| [python-template](https://github.com/baban9999ytr/python-template)                 | No description provided. | **Python**       | 0     |
-| [InformationAndIbanCards](https://github.com/baban9999ytr/InformationAndIbanCards) | No description provided. | **JavaScript**   | 0     |
-| [ultimate-agent-kit](https://github.com/baban9999ytr/ultimate-agent-kit)           | No description provided. | **TypeScript**   | 0     |
-| [agent-skills](https://github.com/baban9999ytr/agent-skills)                       | No description provided. | **JavaScript**   | 0     |
-
+| Repository | Description | Primary Language | Stars |
+| --- | --- | --- | --- |
+| [LifeDiary](https://github.com/baban9999ytr/LifeDiary) | First Full Release | **Java** |  7 |
+| [InformationAndIbanCards](https://github.com/baban9999ytr/InformationAndIbanCards) | No description provided. | **JavaScript** |  0 |
+| [photo_template_studio](https://github.com/baban9999ytr/photo_template_studio) | No description provided. | **Python** |  0 |
+| [pythongeneraljobscraper](https://github.com/baban9999ytr/pythongeneraljobscraper) | No description provided. | **Python** |  0 |
+| [ultimate-agent-kit](https://github.com/baban9999ytr/ultimate-agent-kit) | No description provided. | **TypeScript** |  0 |
 <!--END_SECTION:top-repos-->
 
 <br/>
