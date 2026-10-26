@@ -106,13 +106,15 @@
 ## 🏆 Featured Repositories
 
 <!--START_SECTION:top-repos-->
-| Repository | Description | Primary Language | Stars |
-| --- | --- | --- | --- |
-| [LifeDiary](https://github.com/baban9999ytr/LifeDiary) | First Full Release | **Java** |  7 |
-| [python-template](https://github.com/baban9999ytr/python-template) | No description provided. | **Python** |  0 |
-| [InformationAndIbanCards](https://github.com/baban9999ytr/InformationAndIbanCards) | No description provided. | **JavaScript** |  0 |
-| [acphotoscomtr](https://github.com/baban9999ytr/acphotoscomtr) | No description provided. | **TypeScript** |  0 |
-| [OpenStackTools](https://github.com/baban9999ytr/OpenStackTools) | No description provided. | **HTML** |  0 |
+
+| Repository                                                                         | Description              | Primary Language | Stars |
+| ---------------------------------------------------------------------------------- | ------------------------ | ---------------- | ----- |
+| [LifeDiary](https://github.com/baban9999ytr/LifeDiary)                             | First Full Release       | **Java**         | 7     |
+| [python-template](https://github.com/baban9999ytr/python-template)                 | No description provided. | **Python**       | 0     |
+| [InformationAndIbanCards](https://github.com/baban9999ytr/InformationAndIbanCards) | No description provided. | **JavaScript**   | 0     |
+| [acphotoscomtr](https://github.com/baban9999ytr/acphotoscomtr)                     | No description provided. | **TypeScript**   | 0     |
+| [OpenStackTools](https://github.com/baban9999ytr/OpenStackTools)                   | No description provided. | **HTML**         | 0     |
+
 <!--END_SECTION:top-repos-->
 
 <br/>
