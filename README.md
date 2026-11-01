@@ -109,10 +109,10 @@
 | Repository | Description | Primary Language | Stars |
 | --- | --- | --- | --- |
 | [LifeDiary](https://github.com/baban9999ytr/LifeDiary) | First Full Release | **Java** |  7 |
+| [LaravelShoppingSite](https://github.com/baban9999ytr/LaravelShoppingSite) | No description provided. | **Vue** |  0 |
 | [OpenStackTools](https://github.com/baban9999ytr/OpenStackTools) | No description provided. | **HTML** |  0 |
 | [acphotoscomtr](https://github.com/baban9999ytr/acphotoscomtr) | No description provided. | **TypeScript** |  0 |
 | [pythongeneraljobscraper](https://github.com/baban9999ytr/pythongeneraljobscraper) | No description provided. | **Python** |  0 |
-| [photo_template_studio](https://github.com/baban9999ytr/photo_template_studio) | No description provided. | **Python** |  0 |
 <!--END_SECTION:top-repos-->
 
 <br/>
