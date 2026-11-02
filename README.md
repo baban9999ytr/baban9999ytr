@@ -106,13 +106,15 @@
 ## 🏆 Featured Repositories
 
 <!--START_SECTION:top-repos-->
-| Repository | Description | Primary Language | Stars |
-| --- | --- | --- | --- |
-| [LifeDiary](https://github.com/baban9999ytr/LifeDiary) | First Full Release | **Java** |  7 |
-| [BiggestCarreerScraper](https://github.com/baban9999ytr/BiggestCarreerScraper) | No description provided. | **Python** |  0 |
-| [python-template](https://github.com/baban9999ytr/python-template) | No description provided. | **Python** |  0 |
-| [LaravelShoppingSite](https://github.com/baban9999ytr/LaravelShoppingSite) | No description provided. | **Vue** |  0 |
-| [OpenStackTools](https://github.com/baban9999ytr/OpenStackTools) | No description provided. | **HTML** |  0 |
+
+| Repository                                                                     | Description              | Primary Language | Stars |
+| ------------------------------------------------------------------------------ | ------------------------ | ---------------- | ----- |
+| [LifeDiary](https://github.com/baban9999ytr/LifeDiary)                         | First Full Release       | **Java**         | 7     |
+| [BiggestCarreerScraper](https://github.com/baban9999ytr/BiggestCarreerScraper) | No description provided. | **Python**       | 0     |
+| [python-template](https://github.com/baban9999ytr/python-template)             | No description provided. | **Python**       | 0     |
+| [LaravelShoppingSite](https://github.com/baban9999ytr/LaravelShoppingSite)     | No description provided. | **Vue**          | 0     |
+| [OpenStackTools](https://github.com/baban9999ytr/OpenStackTools)               | No description provided. | **HTML**         | 0     |
+
 <!--END_SECTION:top-repos-->
 
 <br/>
