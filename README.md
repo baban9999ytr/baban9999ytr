@@ -109,8 +109,8 @@
 | Repository | Description | Primary Language | Stars |
 | --- | --- | --- | --- |
 | [LifeDiary](https://github.com/baban9999ytr/LifeDiary) | First Full Release | **Java** |  8 |
-| [pythongeneraljobscraper](https://github.com/baban9999ytr/pythongeneraljobscraper) | No description provided. | **Python** |  0 |
 | [OpenStackTools](https://github.com/baban9999ytr/OpenStackTools) | No description provided. | **HTML** |  0 |
+| [pythongeneraljobscraper](https://github.com/baban9999ytr/pythongeneraljobscraper) | No description provided. | **Python** |  0 |
 | [PythonLocalPhoneSpeechDownloader](https://github.com/baban9999ytr/PythonLocalPhoneSpeechDownloader) | No description provided. | **Python** |  0 |
 | [ultimate-agent-kit](https://github.com/baban9999ytr/ultimate-agent-kit) | No description provided. | **TypeScript** |  0 |
 <!--END_SECTION:top-repos-->
