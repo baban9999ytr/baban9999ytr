@@ -109,10 +109,10 @@
 | Repository | Description | Primary Language | Stars |
 | --- | --- | --- | --- |
 | [LifeDiary](https://github.com/baban9999ytr/LifeDiary) | First Full Release | **Java** |  8 |
+| [ARES-Mission-Control](https://github.com/baban9999ytr/ARES-Mission-Control) | No description provided. | **JavaScript** |  0 |
 | [OpenStackTools](https://github.com/baban9999ytr/OpenStackTools) | No description provided. | **HTML** |  0 |
 | [pythongeneraljobscraper](https://github.com/baban9999ytr/pythongeneraljobscraper) | No description provided. | **Python** |  0 |
 | [PythonLocalPhoneSpeechDownloader](https://github.com/baban9999ytr/PythonLocalPhoneSpeechDownloader) | No description provided. | **Python** |  0 |
-| [ultimate-agent-kit](https://github.com/baban9999ytr/ultimate-agent-kit) | No description provided. | **TypeScript** |  0 |
 <!--END_SECTION:top-repos-->
 
 <br/>
@@ -121,8 +121,8 @@
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled issue [#1](https://github.com/baban9999ytr/LifeDiary/issues/1) in [baban9999ytr/LifeDiary](https://github.com/baban9999ytr/LifeDiary)
-2. ℹ️ Assigned issue [#1](https://github.com/baban9999ytr/LifeDiary/issues/1) in [baban9999ytr/LifeDiary](https://github.com/baban9999ytr/LifeDiary)
+1. 🎉 Merged PR [#6](https://github.com/baban9999ytr/ARES-Mission-Control/pull/6) in [baban9999ytr/ARES-Mission-Control](https://github.com/baban9999ytr/ARES-Mission-Control)
+2. 💪 Opened PR [#6](https://github.com/baban9999ytr/ARES-Mission-Control/pull/6) in [baban9999ytr/ARES-Mission-Control](https://github.com/baban9999ytr/ARES-Mission-Control)
 
 <!--END_SECTION:activity-->
 
