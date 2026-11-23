@@ -106,13 +106,15 @@
 ## 🏆 Featured Repositories
 
 <!--START_SECTION:top-repos-->
-| Repository | Description | Primary Language | Stars |
-| --- | --- | --- | --- |
-| [LifeDiary](https://github.com/baban9999ytr/LifeDiary) | First Full Release | **Java** |  8 |
-| [BiggestCarreerScraper](https://github.com/baban9999ytr/BiggestCarreerScraper) | No description provided. | **Python** |  0 |
-| [python-template](https://github.com/baban9999ytr/python-template) | No description provided. | **Python** |  0 |
-| [OpenStackTools-AI](https://github.com/baban9999ytr/OpenStackTools-AI) | No description provided. | **TypeScript** |  0 |
-| [ultimate-agent-kit](https://github.com/baban9999ytr/ultimate-agent-kit) | No description provided. | **TypeScript** |  0 |
+
+| Repository                                                                     | Description              | Primary Language | Stars |
+| ------------------------------------------------------------------------------ | ------------------------ | ---------------- | ----- |
+| [LifeDiary](https://github.com/baban9999ytr/LifeDiary)                         | First Full Release       | **Java**         | 8     |
+| [BiggestCarreerScraper](https://github.com/baban9999ytr/BiggestCarreerScraper) | No description provided. | **Python**       | 0     |
+| [python-template](https://github.com/baban9999ytr/python-template)             | No description provided. | **Python**       | 0     |
+| [OpenStackTools-AI](https://github.com/baban9999ytr/OpenStackTools-AI)         | No description provided. | **TypeScript**   | 0     |
+| [ultimate-agent-kit](https://github.com/baban9999ytr/ultimate-agent-kit)       | No description provided. | **TypeScript**   | 0     |
+
 <!--END_SECTION:top-repos-->
 
 <br/>
