@@ -109,10 +109,10 @@
 | Repository | Description | Primary Language | Stars |
 | --- | --- | --- | --- |
 | [LifeDiary](https://github.com/baban9999ytr/LifeDiary) | First Full Release | **Java** |  8 |
+| [OpenStackTools-AI](https://github.com/baban9999ytr/OpenStackTools-AI) | No description provided. | **TypeScript** |  0 |
 | [pythongeneraljobscraper](https://github.com/baban9999ytr/pythongeneraljobscraper) | No description provided. | **Python** |  0 |
 | [photo_template_studio](https://github.com/baban9999ytr/photo_template_studio) | No description provided. | **Python** |  0 |
 | [PythonLocalPhoneSpeechDownloader](https://github.com/baban9999ytr/PythonLocalPhoneSpeechDownloader) | No description provided. | **Python** |  0 |
-| [OpenStackTools-AI](https://github.com/baban9999ytr/OpenStackTools-AI) | No description provided. | **TypeScript** |  0 |
 <!--END_SECTION:top-repos-->
 
 <br/>
@@ -121,8 +121,8 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#15](https://github.com/baban9999ytr/ARES-Mission-Control/pull/15) in [baban9999ytr/ARES-Mission-Control](https://github.com/baban9999ytr/ARES-Mission-Control)
-2. 🎉 Merged PR [#16](https://github.com/baban9999ytr/ARES-Mission-Control/pull/16) in [baban9999ytr/ARES-Mission-Control](https://github.com/baban9999ytr/ARES-Mission-Control)
+1. 🎉 Merged PR [#7](https://github.com/baban9999ytr/OpenStackTools-AI/pull/7) in [baban9999ytr/OpenStackTools-AI](https://github.com/baban9999ytr/OpenStackTools-AI)
+2. 💪 Opened PR [#7](https://github.com/baban9999ytr/OpenStackTools-AI/pull/7) in [baban9999ytr/OpenStackTools-AI](https://github.com/baban9999ytr/OpenStackTools-AI)
 
 <!--END_SECTION:activity-->
 
